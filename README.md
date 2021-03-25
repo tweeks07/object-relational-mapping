@@ -68,7 +68,6 @@ DELETE categories by ID
 
 ## Deployment
 ---
-The URL of the [deployed](https://tweeks07.github.io/Team-Generator/) application
 
 The URL of the GitHub [repository](https://github.com/tweeks07/object-relational-mapping)
 
